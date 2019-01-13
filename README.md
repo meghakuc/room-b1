@@ -10,7 +10,7 @@ Here is the project structure of "src" folder.
 
 ```bash
 $ git clone https://github.com/meghakuc/room-b1.git
-$ cd room-b1 && npm install
+$ cd room-b1
 $ npm start
 $ open http://127.0.0.1:3000
 ```
