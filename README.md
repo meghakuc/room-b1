@@ -1,6 +1,6 @@
 This sample shows how to create a React application. In this application we are booking rooms and and according selecting persons who can stay in those rooms.
 
-![](app/img/demo.png)
+![](app/img/react.png)
 
 ## Demo
 
@@ -13,7 +13,7 @@ $ open http://127.0.0.1:3000
 
 Now, you visit http://127.0.0.1:3000/, and should see a room book app.
 
-![](app/img/demo.png)
+![](src/img/demo.png)
 
 There are following places to test.
 
