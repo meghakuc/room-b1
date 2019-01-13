@@ -1,6 +1,6 @@
 This sample shows how to create a Room Booking React application. In this application we are selecting rooms and how many persons including adult & child can stay in those rooms.
 
-In this project inside "src" folder, "Logic.js" is a main file which contains all code related to UI display and to "decrease" and "increase" rooms, adults and children. In "ButtonsVisibility.js" file there is code related to "Increase" and "Decrease" buttons for rooms, adults and children.
+In this project inside "src" folder, "App.js" is a main file which will render the components created in "Logic.js" which contains all code related to UI display and to "decrease" and "increase" rooms, adults and children. In "ButtonsVisibility.js" file there is code related to "Increase" and "Decrease" buttons for rooms, adults and children.
 
 Here is the project structure of "src" folder.
 
@@ -10,7 +10,7 @@ Here is the project structure of "src" folder.
 
 ```bash
 $ git clone https://github.com/meghakuc/room-b1.git
-$ cd room-book-app && npm install
+$ cd room-b1 && npm install
 $ npm start
 $ open http://127.0.0.1:3000
 ```
