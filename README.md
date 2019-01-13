@@ -4,7 +4,7 @@ In this project inside "src" folder, "Logic.js" is a main file which contains al
 
 Here is the project structure of "src" folder.
 
-![](src/img/project structure.png)
+![](src/img/project_structure.png)
 
 ## Demo
 
